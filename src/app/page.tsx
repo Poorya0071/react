@@ -13,7 +13,7 @@ export default function Home() {
         Canada, A1A 2H3
       </address>
       <p>
-        Open to work Monday to Friday 8am to 5pm
+        Open to work Monday to Friday 8am to 5pm!
       </p>
       <Link href="tell: 1-709-770-8105" className="hover:underline"></Link>
       709-770-8105
